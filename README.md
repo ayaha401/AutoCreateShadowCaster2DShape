@@ -1,6 +1,9 @@
 # AutoCreateShadowCaster2DShape
 ShadowCaster2DのShapeをSpriteRendererやCompositeCollider2Dから生成できるようにするEditor拡張
 
+# 動画
+https://github.com/ayaha401/AutoCreateShadowCaster2DShape/assets/75297336/f17e68cf-cca1-4580-b6e1-4707101886f7
+
 # 導入方法
 * unitypackageをダウンロードして使う
 * もしくは`ShadowCaster2DAutoShapeEditor.cs`をEditorフォルダに入れる
@@ -20,3 +23,7 @@ unitypackageで導入した場合は`Assets/Editor/AutoCreateShadowShape2D/`に�
 ## SpriteRenderer or CompositeCollider2D is not attached
 `Auto Create Shadow Shape`ボタンか`Delete Shadow Shape`ボタンを押したときに出ます。<br>
 `SpriteRenderer`か`CompositeCollider2D`が存在しないと出ます。どちらかをアタッチしてください。
+
+
+
+
