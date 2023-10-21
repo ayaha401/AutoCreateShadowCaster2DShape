@@ -1,0 +1,2 @@
+# AutoCreateShadowCaster2DShape
+ShadowCaster2DのShapeをSpriteRendererやCompositeCollider2Dから生成できるようにするEditor拡張
